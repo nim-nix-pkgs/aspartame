@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775713,
-        "narHash": "sha256-2es8XXcC6LKsOQvM3evlXGwe8cxTbrx4TTOOtSvNt4c=",
+        "lastModified": 1669430995,
+        "narHash": "sha256-xXYm57MPI65CWV/qxx65BNDyoWKvXxa3MUoZF6PbnFM=",
         "owner": "nim-nix-pkgs",
         "repo": "aspartame",
-        "rev": "7ace91f463e6d7832e0fbf08a6438d1e89681bc7",
+        "rev": "dd88c56e47a1ee6d08c927a8add47937fc20a305",
         "type": "github"
       },
       "original": {
@@ -237,11 +237,11 @@
     "src-aspartame-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1663279437,
-        "narHash": "sha256-As2XgipGXp/kUS3BbFw6WNSfGZ/S0aa/pQDlG+yWXDI=",
+        "lastModified": 1669207597,
+        "narHash": "sha256-0pd9j0/6V4WOohLuAtNm5AD80w0ysxZfla1j+4L8AlE=",
         "owner": "~xigoi",
         "repo": "aspartame",
-        "rev": "9e8894772b3f6f12a89b0add6cf0c1dc57be4456",
+        "rev": "12a47ad950889d1b03ef1952130bf220800275cb",
         "type": "sourcehut"
       },
       "original": {
